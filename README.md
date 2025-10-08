@@ -112,7 +112,8 @@ predict(w1,w2,test)
 
 Show your results here
 
-<img width="718" height="458" alt="image" src="https://github.com/user-attachments/assets/d6e658d9-63f4-463c-a092-0b2b8404ee0d" />
+<img width="261" height="96" alt="image" src="https://github.com/user-attachments/assets/7a275b43-c7dc-4a9d-a38f-eeb3ea344bb4" />
+
 <img width="718" height="458" alt="image" src="https://github.com/user-attachments/assets/43166620-a222-4959-9661-2e7452303dbc" />
 
 
